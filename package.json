@@ -38,6 +38,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "mocha": "^8.0.1"
+    "mocha": "^8.4.0"
   }
 }
